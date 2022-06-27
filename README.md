@@ -7,3 +7,4 @@
 - 22.06.24 / HTML Basics
 - 22.06.25 / HTML Semantics
 - 22.06.26 / HTML Form and Table
+- 22.06.27 / HTML Form action, name
