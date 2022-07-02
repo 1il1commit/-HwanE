@@ -10,3 +10,4 @@
 - 22.06.27 / HTML Form action, name
 - 22.06.28 / CSS Basics
 - 22.06.29 / CSS Color, Text
+- 22.07.02 / CSS Selector
