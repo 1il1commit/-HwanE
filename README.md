@@ -11,3 +11,4 @@
 - 22.06.28 / CSS Basics
 - 22.06.29 / CSS Color, Text
 - 22.07.02 / CSS Selector
+- 22.07.03 / Pseudo elements
