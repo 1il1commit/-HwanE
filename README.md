@@ -12,3 +12,4 @@
 - 22.06.29 / CSS Color, Text
 - 22.07.02 / CSS Selector
 - 22.07.03 / Pseudo elements
+- 22.07.04 / Inheritance CSS
