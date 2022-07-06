@@ -14,3 +14,4 @@
 - 22.07.03 / Pseudo elements
 - 22.07.04 / Inheritance CSS
 - 22.07.05 / CSS Box Model
+- 22.07.06 / CSS Properties
