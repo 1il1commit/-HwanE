@@ -18,3 +18,4 @@
 - 22.07.07 / CSS Flex Box
 - 22.07.08 / Flex Reactive Design
 - 22.07.10 / Media Query
+- 22.07.11 / Price List Project
