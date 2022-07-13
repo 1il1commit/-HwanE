@@ -19,3 +19,4 @@
 - 22.07.08 / Flex Reactive Design
 - 22.07.10 / Media Query
 - 22.07.11 / Price List Project
+- 22.07.13 / Bootstrap
