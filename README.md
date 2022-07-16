@@ -22,3 +22,4 @@
 - 22.07.13 / Bootstrap
 - 22.07.14 / JavaScript String
 - 22.07.15 / JavaScript Conditional
+- 22.07.16 / JavaScript Arrangement
